@@ -1,0 +1,21 @@
+total 64
+drwxr-xr-x 3 root root 4096 Sep  6 23:40 .
+drwxr-xr-x 5 root root   80 Sep  6 23:37 ..
+-rw-r--r-- 1 root root   24 Sep  6 03:08 0_helllo_world
+-rw-r--r-- 1 root root   11 Sep  6 03:01 #0-hello_world#
+-rw-r--r-- 1 root root   30 Sep  6 03:20 0-hello_world
+-rw-r--r-- 1 root root   28 Sep  6 03:18 0-hello_world~
+-rw-r--r-- 1 root root   25 Sep  6 04:39 1-confused_smiley
+-rw-r--r-- 1 root root    0 Sep  6 04:37 1-confuse_smiley~
+-rw-r--r-- 1 root root 1338 Sep  6 14:22 2-hellofile
+-rw-r--r-- 1 root root 1512 Sep  6 14:30 3-twofiles
+-rw-r--r-- 1 root root  651 Sep  6 14:38 4-lastlines
+-rw-r--r-- 1 root root  424 Sep  6 14:41 5-firstlines
+-rw-r--r-- 1 root root   49 Sep  6 15:40 6-third_line
+-rw-r--r-- 1 root root   37 Sep  6 15:32 6-third_line~
+-rw-r--r-- 1 root root   24 Sep  6 23:26 7-file
+-rw-r--r-- 1 root root   24 Sep  6 23:21 \*\\"Best School"\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  6 15:46 \*\\"Best School"\\\*$\?\*\*\*\*\*:)~
+drwxr-xr-x 8 root root  201 Sep  6 15:35 .git
+-rw-r--r-- 1 root root    0 Sep  6 23:40 ls_cwd_content
+-rw-r--r-- 1 root root 1066 Sep  6 23:32 mywork
